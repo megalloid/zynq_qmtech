@@ -159,7 +159,7 @@ module counter_mgmt(
     always @(posedge clk_i)		
     begin
         if (rst_i == 1'b1) begin
-			state = IDLE;
+			state <= IDLE;
 		end
 		else begin
             case(state)	

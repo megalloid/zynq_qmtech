@@ -1,4 +1,4 @@
-# Zynq XCZ7020 QMTech Board lesson materials
+# Zynq XC7Z020 QMTech Board lesson materials
 
 Lessons on russian: https://habr.com/ru/users/megalloid/posts/
 
@@ -9,3 +9,5 @@ Lessons on russian: https://habr.com/ru/users/megalloid/posts/
 5. Zynq 7000. Обмен информацией между PS и PL
 6. Zynq 7000. Тестирование счётчика импульсов
 7. Zynq 7000. Прикручиваем Wi-Fi модуль RTL8822CS с использованием SDIO через EMIO
+
+#zynq #qmtech #XC7Z020 #xc7z020clg400-1 #linux #howto
